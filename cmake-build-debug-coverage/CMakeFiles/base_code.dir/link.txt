@@ -1,0 +1,1 @@
+/usr/bin/c++ --coverage -g CMakeFiles/base_code.dir/src/Action.cpp.o CMakeFiles/base_code.dir/src/Customer.cpp.o CMakeFiles/base_code.dir/src/main.cpp.o CMakeFiles/base_code.dir/src/Studio.cpp.o CMakeFiles/base_code.dir/src/Trainer.cpp.o CMakeFiles/base_code.dir/src/Workout.cpp.o -o base_code 
